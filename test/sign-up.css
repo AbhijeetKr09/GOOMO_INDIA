@@ -1,0 +1,14 @@
+
+  
+.body-signup {
+background: linear-gradient(to right, #8957fe, #6c3483, #3f1c61);
+width: 50%;
+position: fixed;
+}
+.body-logo {
+    color: aliceblue;
+    display: flex;
+    align-items: end;
+    position: relative;
+    top: 10px;
+  }
